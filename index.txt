@@ -1,0 +1,1296 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTML Cheat Sheet</title>
+	</head>
+	<body>
+		<!-- Headings -->
+		<h1>Departemen Geografi</h1>
+		<h2>Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Indonesia</h2>
+		<h3>Visi</h3>
+
+		<!-- Paragraph -->
+		<p>
+			Program Studi Sarjana Geografi Departemen Geografi FMIPA UI memiliki visi untuk menjadi:
+
+			“Lembaga pendidikan geografi yang handal dan terpercaya dalam menghasilkan sarjana geografi yang mampu bersaing di tingkat nasional maupun global dalam menerapkan dan mengembangkan ilmu geografi”.
+
+		<h3>Misi</h3>
+
+		<!-- Paragraph -->
+		<p>
+			Untuk mencapai arah pengembangan tersebut, Program Studi Sarjana Geografi Departemen Geografi FMIPA-UI mengemban misi untuk :
+ 
+			<!-- Lists -->
+		<ul>
+			<li>Mengembangkan dan menerapkan standar mutu yang tinggi dalam kegiatan pendidikan sarjana geografi</li>
+			<li>Mengembangkan dan menerapkan kurikulum pendidikan geografi berbasis pendekatan interdisiplin yang sejalan dengan perkembangan mutakhir ilmu pengetahuan dan teknologi</li>
+			<li>Mengintegrasikan kegiatan penelitian dan pengabdian masyarakat ke dalam proses pembelajaran ilmu geografi</li>
+			<li>Menghasilkan lulusan berkualitas yang memiliki integritas dan kemampuan intelektual tinggi.</li>
+		</ul>
+
+		<h3>Tujuan Pendidikan</h3>
+
+		<!-- Paragraph -->
+		<p>
+			Kegiatan pendidikan pada Program Studi Sarjana di Departemen Geografi FMIPA UI bertujuan untuk  :
+
+			<!-- Lists -->
+		<ol>
+			<li>Menghasilkan sarjana geografi dengan integritas kepribadian yang handal serta mampu berpikir logis, sistematis, dan konsisten sebagai ciri utama seorang ilmuwan</li>
+			<li>Menghasilkan sarjana geografi yang menguasai penerapan pendekatan holistik-keruangan dalam memahami dinamika alam dan manusia serta interaksi antara keduanya sebagai ciri utama pendekatan ilmu geografi</li>
+			<li>Menyebarluaskan pengetahuan, penerapan, dan pemanfaatan pengetahuan dan ketrampilan dalam disiplin ilmu geografi baik bagi pengembangan ilmu geografi itu sendiri maupun bagi kepentingan masyarakat luas.</li>
+		</ol>		
+
+
+<!-- Image -->
+		<a href="images/sample.jpg">
+			<img src="geogeo.jpg">
+		</a>
+
+		<h5>Kegiatan Field School (Student Exchange) The University of Sydney - Universitas Indonesia</h5>
+
+
+		<a href="images/sample.jpg">
+			<img src="geo.jpg">
+		</a>
+
+		<h5>Gedung Geografi FMIPA UI</h5>
+		<br>
+
+		<h3>Sejarah</h3>
+
+		<!-- Paragraph -->
+		<p>
+			Ditinjau dari sejarahnya, berdirinya Jurusan Geografi FMIPA UI pada tahun 1950-an dipelopori TNI Angkatan Darat, dalam hal ini Jenderal Gatot Subroto, yang dilatarbelakangi oleh keinginan untuk menyediakan tenaga-tenaga ahli dalam pembuatan dan analisis peta bagi keperluan militer. Oleh karena itu tidak mengherankan apabila sejak diresmikan pada tanggal 27 Nopember 1959, segala aktivitas perkuliahan diadakan di Gedung Lembaga Geografi Jawatan Topografi (Jantop) TNI-AD yang berlokasi di Jl. Dr. Wahidin No 11, Gunung Sahari Jakarta Pusat sebelum dipindahkan ke Kampus UI Salemba pada tahun 1976. Pada saat itu, program studi yang dibuka hanya diperuntukkan bagi pendidikan Program Sarjana. Jumlah mahasiswa yang mendaftar pada angkatan pertama adalah lebih dari 100 orang, namun yang lulus tingkat persiapan hanya 10 orang dan yang berhasil meraih gelar sarjana hanya 6 orang, yaitu: Ahmad Ramli Sabirin, Ahmad Sayuti, Boesriati, Anzir Haryanto, Rahmat Bratamihardja, dan Razif Rifai. Sementara itu, pada angkatan kedua, dari 102 mahasiswa yang terdaftar hanya 15 orang yang lulus tingkat persiapan. Dan dari mereka yang lulus tersebut, hanya dua orang yang berhasil meraih gelar sarjana, yaitu: Asmarul Amri dan Wihatmo. Pada masa itu, Jurusan Geografi berada di bawah pengelolaan Fakultas Ilmu Pasti dan Alam Universitas Padjajaran (FIPIA-Unpad) di Bandung. Barulah pada tahun 1966, pengelolaan Jurusan Geografi dipindahkan ke <strong>Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Indonesia (FMIPA – UI)</strong> berdasarkan Surat Keputusan Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan Nomor 79 tanggal 8 Oktober 1966.
+
+		<h4>Profil Lulusan</h4>
+		
+		<!-- Paragraph -->
+		<p>
+			Proses pendidikan pada Program Studi Sarjana Departemen Geografi FMIPA UI dirancangan dan dilaksanakan untuk menghasilkan lulusan dengan profil sebagai berikut:
+
+			“Sarjana Sains  yang memiliki keahlian dan keterampilan geografi untuk melakukan kajian wilayah (regional analysis) dan kajian ekologi (ecological analysis) secara inovatif berbasis teknologi sistem informasi geografis  berlandaskan pada daya kompetisi dan integritas yang tinggi” 	
+
+		<h4>Kompetensi Lulusan</h4>
+
+		<!-- Paragraph -->
+		<p>
+			Sebagai sebuah intitusi pendidikan, pelaksanaan visi dan misi ditujukan untuk menghasilkan sarjana geografi yang mampu bersaing di pasar kerja.  Atas dasar tersebut, Program Studi Sarjana Departemen Geografi FMIPA UI mempunyai tujuan agar setiap lulusan yang dihasilkan memiliki kemampuan sebagai berikut :
+
+			<!-- Lists -->
+		<ol>
+			<li>Menunjukkan sikap dan perilaku ilmuwan sebagai landasan kepribadian</li>
+			<li>Mampu melakukan sintesis wilayah dengan pendekatan regional</li>
+			<li>Mampu menganalisis proses fisik ruang muka bumi secara spasial dan temporal</li>
+			<li>Mampu menganalisis proses sosial ekonomi dan budaya manusia secara spasial dan temporal</li>
+			<li>Mampu melaksanakan kegiatan survei dan pemetaan di berbagai karakteristik wilayah</li>
+			<li>Mampu merancang model aplikasi SIG dan PJ untuk kajian wilayah dan lingkungan</li>
+			<li>Mampu menerapkan penggunaan ilmu pendukung bagi pengembangan kaidah kerja ilmiah geografi</li>
+			<li>Mampu berinteraksi dan memberikan kontribusi dalam pemecahan masalah</li>
+		</ol>
+
+		
+
+		<br>
+		<hr>
+		<br>
+
+		<h3>Contact Us</h3>
+		<!-- Forms -->
+		<form action="process.php" method="POST">
+			<div>
+				<label>First Name</label>
+				<input type="text" name="firstName" placeholder="Enter first name">
+			</div>
+			<br>
+			<div>
+				<label>Last Name</label>
+				<input type="text" name="lastName">
+			</div>
+			<br>
+			<div>
+				<label>Email</label>
+				<input type="email" name="email">
+			</div>
+			<br>
+			<div>
+				<label>Message</label>
+				<textarea name="message"></textarea>
+			</div>
+			<br>
+			<div>
+				<label>Gender</label>
+				<select name="gender">
+					<option value="male">Male</option>option>
+					<option value="female">Female</option>option>
+					<option value="other">Other</option>option>
+				</select>	
+			</div>
+			<br>
+				<div>
+					<label>Age:</label>
+					<input type="number" name="age" value="30"
+				<br>
+				</div>
+				<br>
+				<div>
+					<label>Birthday:</label>
+					<input type="date" name="birthday">
+				</div>
+				<br>
+				<input type="submit" name="submit" value="Submit">
+		</form>
+
+		<h6>Copyright © 2021 - Amira Fairuza. All Rights Reserved</h6>
+
+
+		<div style="margin-top:500px"></div>
+	</body>
+</html>
+
+<html>
+   <head>
+      <title>Latihan WebGIS</title>
+      <link rel = "stylesheet" href = "https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"/>
+      <script src = "https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+   </head>
+
+   <body>
+      <div id = "map" style = "width: 100%; height: 100%"></div>
+      <script>
+         // Membuat Map Options
+         var mapOptions = {
+            center: [-6.1775822,106.8258093],
+            zoom: 10
+         }
+         
+         // Membuat Map Object
+         var map = new L.map('map', mapOptions);
+         
+         // Membuat Layer
+         var layer = new L.TileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}',{
+			maxZoom: 20,
+			subdomains:['mt0','mt1','mt2','mt3']
+		 });
+         
+         // Menampilkan layer pada peta
+         map.addLayer(layer);
+		     
+      </script>
+   </body>
+   
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
